@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ff7244-202b-45da-94e3-9059fd238d52" name="Changes" comment="Added smal graphic">
-      <change afterPath="$PROJECT_DIR$/Meilenstein_4/Joshua/cleaned_house_data_new.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Meilenstein_4/Joshua/cleaned_house_data_old.csv" afterDir="false" />
+    <list default="true" id="93ff7244-202b-45da-94e3-9059fd238d52" name="Changes" comment="Fixed Typo">
+      <change afterPath="$PROJECT_DIR$/Meilenstein_4/Joshua/MS4_DDM_Modelling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meilenstein_4/cleaned_house_data_old.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" afterDir="false" />
     </list>
@@ -60,6 +60,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4\Joshua" />
+      <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4" />
       <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_4" />
       <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_3" />
       <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_1" />
@@ -104,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784207054537</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed Typo">
+      <option name="closed" value="true" />
+      <created>1784207687824</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784207687824</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="Added smal graphic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added smal graphic" />
+    <MESSAGE value="Fixed Typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Typo" />
   </component>
 </project>
