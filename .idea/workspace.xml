@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93ff7244-202b-45da-94e3-9059fd238d52" name="Changes" comment="Fixed Typo">
-      <change afterPath="$PROJECT_DIR$/Meilenstein_4/Joshua/MS4_DDM_Modelling.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Meilenstein_4/cleaned_house_data_old.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meilenstein_2/David/IDA_EDA_Meilenstein2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meilenstein_3/David/DDM_Data_Preparation_old.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meilenstein_3/Marian/DDM_Modelling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering_old.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "dev",
-    "last_opened_file_path": "C:/Users/joshu/PycharmProjects/DDM_Meilensteine/Meilenstein_4/Joshua",
+    "last_opened_file_path": "F:/DEV/PYHTONPROJECTS/DDM/Meilenstein_2/David",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,11 +60,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_2\David" />
+      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_3\David" />
+      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_4\David" />
+      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_3\Marian" />
       <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4\Joshua" />
-      <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4" />
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_4" />
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_3" />
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_1" />
     </key>
   </component>
   <component name="SharedIndexes">
