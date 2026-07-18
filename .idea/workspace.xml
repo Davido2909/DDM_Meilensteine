@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ff7244-202b-45da-94e3-9059fd238d52" name="Changes" comment="fehlende notebooks hochgeladen">
+    <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/pyProjectModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meilenstein_4/Joshua/DDM_M4_Clustering_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Meilenstein_4/kc_house_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DDM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ddm-meilensteine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_3/David/DDM_Data_Preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_3/David/DDM_Data_Preparation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_3/David/cleaned_house_data_new.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_3/David/cleaned_house_data_new.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_4/David/cleaned_house_data_new.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/David/cleaned_house_data_new.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,120 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Davido2909&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "dev"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Davido2909/DDM_Meilensteine.git&quot;,
-    &quot;accountId&quot;: &quot;8605a92e-d591-4ac1-92b0-9aa13e262fbc&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3GSOldXE1myWxcBCACnD5znVq9z" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/DEV/PYHTONPROJECTS/DDM/Meilenstein_4/David&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
-  }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_4\David" />
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_2\David" />
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_3\David" />
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_3\Marian" />
-      <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4\Joshua" />
-    </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
-      </set>
-    </attachedChunks>
-  </component>
+}]]></component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="93ff7244-202b-45da-94e3-9059fd238d52" name="Changes" comment="" />
-      <created>1783961655864</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1783961655864</updated>
-    </task>
-    <task id="LOCAL-00001" summary=".">
-      <option name="closed" value="true" />
-      <created>1783982445507</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1783982445507</updated>
-    </task>
-    <task id="LOCAL-00002" summary=".">
-      <option name="closed" value="true" />
-      <created>1783982940753</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1783982940753</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added smal graphic">
-      <option name="closed" value="true" />
-      <created>1784207054537</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1784207054537</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Fixed Typo">
-      <option name="closed" value="true" />
-      <created>1784207687824</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1784207687824</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fehlende notebooks hochgeladen">
-      <option name="closed" value="true" />
-      <created>1784382287689</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1784382287689</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
-    <MESSAGE value="Added smal graphic" />
-    <MESSAGE value="Fixed Typo" />
-    <MESSAGE value="fehlende notebooks hochgeladen" />
-    <option name="LAST_COMMIT_MESSAGE" value="fehlende notebooks hochgeladen" />
   </component>
 </project>

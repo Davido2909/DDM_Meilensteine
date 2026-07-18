@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DDM.iml" filepath="$PROJECT_DIR$/.idea/DDM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ddm-meilensteine.iml" filepath="$PROJECT_DIR$/.idea/ddm-meilensteine.iml" />
     </modules>
   </component>
 </project>
