@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Notebook ausgeführt mit Grafiken">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784467383048</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784469381970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1784469381970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
