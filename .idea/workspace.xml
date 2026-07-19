@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Fixed small error">
+    <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Notebook ausgeführt mit Grafiken">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" afterDir="false" />
     </list>
@@ -97,7 +97,15 @@
       <updated>1784465874338</updated>
       <workItem from="1784465875825" duration="405000" />
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784467383048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784467383048</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Karten Funktion Hinzugefügt" />
     <MESSAGE value="Fixed small error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed small error" />
+    <MESSAGE value="Notebook ausgeführt mit Grafiken" />
+    <option name="LAST_COMMIT_MESSAGE" value="Notebook ausgeführt mit Grafiken" />
   </component>
 </project>
