@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Karten Funktion Hinzugefügt">
+    <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Fixed small error">
+      <change afterPath="$PROJECT_DIR$/Meilenstein_4/Joshua/DDM_M4_Clustering_2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_3/David/DDM_Data_Preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_3/David/DDM_Data_Preparation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_3/David/cleaned_house_data_new.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_3/David/cleaned_house_data_new.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_4/cleaned_house_data_new.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/cleaned_house_data_new.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,16 +16,52 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MrJSA"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Davido2909/DDM_Meilensteine.git",
+    "accountId": "88d71c1b-9c8d-4f84-816f-3ab867d5711c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GislB03cBfCOrgRGu3T5hYor2d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "dev",
-    "last_opened_file_path": "C:/Users/joshu/PycharmProjects/DDM_Meilensteine/Meilenstein_4"
+    "last_opened_file_path": "C:/Users/joshu/PycharmProjects/DDM_Meilensteine/Meilenstein_4/Joshua",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4\Joshua" />
       <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.26222.68" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Karten Funktion Hinzugefügt">
@@ -49,11 +80,31 @@
       <option name="project" value="LOCAL" />
       <updated>1784393328702</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed small error">
+      <option name="closed" value="true" />
+      <created>1784409552874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1784409552874</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Fixed small error" />
+      <created>1784465874338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784465874338</updated>
+      <workItem from="1784465875825" duration="405000" />
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Karten Funktion Hinzugefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Karten Funktion Hinzugefügt" />
+    <MESSAGE value="Fixed small error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed small error" />
   </component>
 </project>
