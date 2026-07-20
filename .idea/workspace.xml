@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Notebook ausgeführt mit Grafiken">
+      <change beforePath="$PROJECT_DIR$/.idea/ddm-meilensteine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ddm-meilensteine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meilenstein_2/David/IDA_EDA_Meilenstein2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_2/David/IDA_EDA_Meilenstein2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +25,12 @@
     &quot;assignee&quot;: &quot;MrJSA&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Davido2909/DDM_Meilensteine.git&quot;,
-    &quot;accountId&quot;: &quot;88d71c1b-9c8d-4f84-816f-3ab867d5711c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Davido2909/DDM_Meilensteine.git",
+    "accountId": "8605a92e-d591-4ac1-92b0-9aa13e262fbc"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -39,13 +43,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "dev",
     "last_opened_file_path": "F:/DEV/PYHTONPROJECTS/DDM/Meilenstein_4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "memory.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,7 +67,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.26222.68" />
         <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
@@ -145,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784472712328</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784472830346</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784472830346</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
