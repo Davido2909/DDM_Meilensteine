@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ff7244-202b-45da-94e3-9059fd238d52" name="Changes" comment=".">
+    <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Notebook ausgeführt mit Grafiken">
+      <change beforePath="$PROJECT_DIR$/.idea/ddm-meilensteine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ddm-meilensteine.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" afterDir="false" />
     </list>
@@ -19,7 +20,7 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Davido2909&quot;
+    &quot;assignee&quot;: &quot;MrJSA&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
@@ -29,78 +30,152 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2,
+  &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
 }</component>
-  <component name="ProjectId" id="3GSOldXE1myWxcBCACnD5znVq9z" />
+  <component name="ProjectId" id="3GislB03cBfCOrgRGu3T5hYor2d" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
     &quot;last_opened_file_path&quot;: &quot;F:/DEV/PYHTONPROJECTS/DDM/Meilenstein_4&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;memory.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_4" />
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_3" />
-      <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_1" />
+      <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4\Joshua" />
+      <recent name="C:\Users\joshu\PycharmProjects\DDM_Meilensteine\Meilenstein_4" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="93ff7244-202b-45da-94e3-9059fd238d52" name="Changes" comment="" />
-      <created>1783961655864</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1783961655864</updated>
-    </task>
-    <task id="LOCAL-00001" summary=".">
+    <task id="LOCAL-00001" summary="Karten Funktion Hinzugefügt">
       <option name="closed" value="true" />
-      <created>1783982445507</created>
+      <created>1784392986692</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1783982445507</updated>
+      <updated>1784392986692</updated>
     </task>
-    <task id="LOCAL-00002" summary=".">
+    <task id="LOCAL-00002" summary="Karten Funktion Hinzugefügt">
       <option name="closed" value="true" />
-      <created>1783982940753</created>
+      <created>1784393328702</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1783982940753</updated>
+      <updated>1784393328702</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed small error">
+      <option name="closed" value="true" />
+      <created>1784409552874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1784409552874</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Fixed small error" />
+      <created>1784465874338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784465874338</updated>
+      <workItem from="1784465875825" duration="405000" />
+    </task>
+    <task id="LOCAL-00004" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784467383048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784467383048</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784469381970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1784469381970</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784469947085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1784469947085</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784469976175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784469976175</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784471240873</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784471240873</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784472712328</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1784472712328</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784472830346</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784472830346</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784552625734</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1784552625734</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Karten Funktion Hinzugefügt" />
+    <MESSAGE value="Fixed small error" />
+    <MESSAGE value="Notebook ausgeführt mit Grafiken" />
+    <option name="LAST_COMMIT_MESSAGE" value="Notebook ausgeführt mit Grafiken" />
   </component>
 </project>
