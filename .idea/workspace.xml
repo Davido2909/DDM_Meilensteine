@@ -7,9 +7,7 @@
     <list default="true" id="7ec1582a-c60b-4f76-b77f-359cd7feaa2f" name="Changes" comment="Notebook ausgeführt mit Grafiken">
       <change beforePath="$PROJECT_DIR$/.idea/ddm-meilensteine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ddm-meilensteine.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_2/David/IDA_EDA_Meilenstein2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_2/David/IDA_EDA_Meilenstein2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/DDM_M4_Clustering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Meilenstein_4/David/DDM_M4_Clustering.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +23,12 @@
     &quot;assignee&quot;: &quot;MrJSA&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Davido2909/DDM_Meilensteine.git",
-    "accountId": "8605a92e-d591-4ac1-92b0-9aa13e262fbc"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Davido2909/DDM_Meilensteine.git&quot;,
+    &quot;accountId&quot;: &quot;8605a92e-d591-4ac1-92b0-9aa13e262fbc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -40,23 +38,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "dev",
-    "last_opened_file_path": "F:/DEV/PYHTONPROJECTS/DDM/Meilenstein_4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "memory.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/DEV/PYHTONPROJECTS/DDM/Meilenstein_4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;memory.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\DEV\PYHTONPROJECTS\DDM\Meilenstein_4" />
@@ -160,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784472830346</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Notebook ausgeführt mit Grafiken">
+      <option name="closed" value="true" />
+      <created>1784552625734</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1784552625734</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
